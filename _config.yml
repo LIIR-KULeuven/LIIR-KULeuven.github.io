@@ -146,3 +146,4 @@ collections:
     sort_order: reverse
     output: true
     permalink: /journal-club/:collection/:path/
+theme: jekyll-theme-minimal
