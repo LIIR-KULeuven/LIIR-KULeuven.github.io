@@ -13,137 +13,79 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Victor Milewski
-email: victor.milewski@cs.kuleuven.be
-description: >- # this means to ignore newlines until "baseurl:"
-  The personal page of Victor Milewski. A PhD student at KU Leuven working in AI and NLP.
-  On this page he shares updates regarding his researcher, and
-  some of his interests.
-twitter_username:
-github_username: VSJMilewski
+title: "LIIR | Journal Club"
+name:  "Journal Club"
+email: liir-journal-org@kuleuven.be
+description: "Hosting all information Regarding the Journal-Club events: reading-club and seminar sessions."
 minimal_mistakes_skin: default
 search: true
-
-# Build settings
+locale: "en"
+URL: "https://liir-kuleuven.github.io"
+logo: "/assets/images/LIIR_journal_club.png"
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+
+atom_feed:
+  hide: true
+
+
+# Pagination
+paginate: 3 # amount of posts to show
+paginate_path: /journal-club/seminars/page:num/
 timezone: Europe/Brussels # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
-  - _pages
   - _journalclub
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
-  - jemoji
   - jekyll-include-cache
-
-author:
-  name   : "Victor Milewski"
-  avatar : "/assets/images/victor.jpg"
-  bio    : "Victor Milewski is a PhD candidate at KU Leuven. 
-  He received a Bachelor’s and Master’s degree in Artificial Intelligence from the University of Amsterdam. 
-  Victor joined the Computer Science department in 2019, where he is working under the ERC funded CALCULUS project, supervised by Professor Marie-Francine Moens. 
-  His PhD focuses on representation learning for Natural Language Understanding, 
-  and his particular research interest lies in the use of multimodal data for downstream tasks, such as visual question answering, image captioning and visual dialogue. "
-  links:
-   - label: "Work Page"
-     icon: "fas fa-fw fa-university"
-     url: "https://www.kuleuven.be/wieiswie/nl/person/00134559"
-   - label: "Google Scholar"
-     icon: "fab fa-fw fa-google"
-     url: "https://scholar.google.nl/citations?user=wznYcykAAAAJ&hl=nl&oi=sra"
-   - label: "GitHub"
-     icon: "fab fa-fw fa-github"
-     url: "https://www.github.com/VSJMilewski"
 
 footer:
   links:
-    - label: "Work Page"
-      icon: "fas fa-fw fa-university"
-      url: "https://www.kuleuven.be/wieiswie/nl/person/00134559"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google" 
-      url: "https://scholar.google.nl/citations?user=wznYcykAAAAJ&hl=nl&oi=sra"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://www.github.com/VSJMilewski"
+    - label: "E-Mail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:liir-journal-org@kuleuven.be"
+    - label: "Slack | LIIR#journalclub"
+      icon: "fab fa-fw fa-slack"
+      url: "https://liir.slack.com/messages/journalclub/"
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
 
 defaults:
   - scope:
       path: "_journalclub"
     values:
       layout: single
-      classes: wide
+      classes: wide2
       read_time: false
       author_profile: false
       share: false
       comments: false
-      sidebar:
-        nav: "jc-nav"
   # _seminars
   - scope:
       path: "_seminars"
     values:
+      show_date: true
       layout: single
-      classes: wide
+      classes: wide2
       read_time: false
       author_profile: false
       share: false
       comments: true
-      sidebar:
-        nav: "jc-nav"
-  # _posts
-  #  - scope:
-    #   path: ""
-    #   type: posts
-    # values:
-    #   layout: single
-    #   author_profile: true
-    #   read_time: true
-    #   comments: true
-    #   share: true
-    #   related: true
-  # _pages
-  # - scope:
-  #     path: "_pages"
-  #     type: pages
-  #   values:
-  #     layout: single
-  #     author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-
-tag_archive:
-  type: liquid
-  path: /tags/
 
 collections:
   seminars:
     sort_by: date
     sort_order: reverse
     output: true
+    future: true
     permalink: /journal-club/:collection/:path/
 theme: jekyll-theme-minimal

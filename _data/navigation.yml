@@ -1,26 +1,7 @@
 main:
-#  - title: "Journal-Club@LIIR"
-#    url: /journal-club/
-  - title: "Journal-Club@LIIR"
-    url: /journal-club/
-  # - title: "Posts"
-  #   url: /posts/
-  # - title: "Categories"
-  #   url: /categories/
-  # - title: "Tags"
-  #   url: /tags/
-jc-nav:
-  - title: "Journal-Club"
-    children:
-      - title: "Overview"
-        url: /journal-club/
-      - title: "Seminars"
-        url: /journal-club/seminars/
-      - title: "Reading"
-        url: /journal-club/reading/
-  - title: Instructions
-    children:
-      - title: "Seminar Series"
-        url: /journal-club/intro-seminar/
-      - title: "Reading Group"
-        url: /journal-club/intro-reading/
+  - title: "Seminar Sessions"
+    url: /journal-club/seminars/
+  - title: "Reading Group"
+    url: /journal-club/reading/
+  - title: "Explenations"
+    url: /journal-club/intro-reading/

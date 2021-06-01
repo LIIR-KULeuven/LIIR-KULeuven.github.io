@@ -1,0 +1,50 @@
+- date: "2021-03-11"
+  time: "12:00-13:00"
+  leader: Jordy Van Landeghem
+  description: "Recurrent Independent Mechanisms"
+  url: "https://arxiv.org/pdf/1909.10893.pdf"
+- date: "2021-01-29"
+  time: "10:00-11:00"
+  leader: Sumam Francis
+  description: ""
+  url: ""
+- date: "2021-01-15"
+  time: "10:00-11:00"
+  leader:  Quentin Meeus
+  description: "Experience Grounds Language"
+  url: "https://www.aclweb.org/anthology/2020.emnlp-main.703/"
+- date: "2020-12-17"
+  time: "10:00-11:00"
+  leader: Aris Chrysakis
+  description: "How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks"
+  url: "https://openreview.net/forum?id=UH-cmocLJC"
+- date: "2020-11-26"
+  time: "15:00-16:00"
+  leader: Damien Silo
+  description: "Parameter-Efficient Transfer Learning for NLP"
+  url: "https://arxiv.org/abs/1902.00751"
+- date: "2020-11-12"
+  time: "12:00-13:00"
+  leader: Victor Milewski
+  description: "Weakly-Supervised Disentanglement Without Compromises"
+  url: "https://arxiv.org/abs/2002.02886"
+- date: "2020-10-29"
+  time: "15:00-16:00"
+  leader: Jordy Van Landeghem
+  description: "What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation"
+  url: "https://arxiv.org/abs/2008.03703"
+- date: "2020-10-16"
+  time: "15:00-16:00"
+  leader: Nathan Cornille
+  description: "DeVLBert: Learning Deconfounded Visio-Linguistic Representations"
+  url: "https://arxiv.org/abs/2008.06884"
+- date: "2021-06-17"
+  time: "15:00-16:00"
+  leader: Mingxiao Li
+  description: ""
+  url: ""
+- date: "2021-06-27"
+  time: "15:00-16:00"
+  leader: Damien Sileo
+  description: ""
+  url: ""
