@@ -6,7 +6,7 @@ permalink: /journal-club/
 ---
 ![jc-logo]({{site.url}}{{site.baseurl}}/assets/images/LIIR_journal_club.png){:class="img-responsive" style="float: right; width:20%; margin:25px"}
 Welcome to the website for the **Journal Club** at the LIIR Group. Here we will post all information about the setup
-and the upcomming events. 
+and the upcoming events. 
 
 There are two tracks within the Journal club: the **Seminar** Sessions, and the **Reading** Group. 
 In the former there are presentations from the members of the group to practice for conferences, share our work 
@@ -15,10 +15,10 @@ and give tutorials. We also occasianally host guest speakers.
 With the Reading Group we meet bi-weekly where we read and discuss some of the most important, difficult, or funny 
 Papers from our fields. 
 
-Every body is welcome to join in and participate! We also have a mailing list to inform about upcomming events. 
+Every body is welcome to join in and participate! We also have a mailing list to inform about upcoming events. 
 When we host in person, we aim to have **sandwhiches** or **cookies**! :D  
 ## Upcoming Events:
-Here are the closest upcomming events. For a full overview, have a look at the 
+Here are the closest upcoming events. For a full overview, have a look at the 
 [Seminar Session page]({{ "/journal-club/seminars/" | relative_url }}) or at the 
 [Reading Group page]({{ "/journal-club/reading/" | relative_url }}). Here you can also find all the past events. 
 
