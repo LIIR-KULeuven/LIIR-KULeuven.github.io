@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Journal-Club @ LIIR - Instructions
-permalink: /journal-club/intro-reading/
+permalink: /journal-club/explanation/
 ---
 
 Here we describe the setup and organisation for both the reading group and the seminar sessions.
