@@ -9,7 +9,7 @@ layout: single
 Here you can find a list with all the past and upcoming reading club papers.
 The presenters are selected from a randomly shuffled queue. Of course it happens that you cannot make it sometimes. 
 Just let us know in time so we inform the next person in the queue. The queue of next-up-presenters is
-[here]({{"https://docs.google.com/spreadsheets/d/e/2PACX-1vQiFA-Kl6bzHGR33x4Yp1co03fjBH37qe-tfS4fkd0wzRlIW5pMlynJXN-IsuNSxmdv7y2S35hbaK3F/pubhtml" | url}}).
+[here]({{"https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9fWBgYoa-1IjvFKeZS_ymojFV7CMdn68KqJty15d6upQ0Z0DcaDxwxNvjvLMwo8Z3e4PhF9jK5Os-/pubhtml" | url}}).
 
 | When&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Who&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What |    
 | --- | --- | --- |  
