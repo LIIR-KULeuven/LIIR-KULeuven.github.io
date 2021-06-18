@@ -1,5 +1,5 @@
 ---
-title: "April 9, 2021: By Thierry Deruyterre and Jordy Van Landeghem"
+title: "April 9, 2021: By Thierry Deruyttere and Jordy Van Landeghem"
 excerpt: "Problems and solutions for talking to self-driving cars by Thierry, and progress regarding Intelligent Automation for AI-driven Document Understanding by Jordy."
 header:
   teaser: "assets/images/seminar_thierry_jordy.png"
@@ -11,7 +11,7 @@ date: 2021-04-09
 
 ## Giving commands to self-driving cars
 
-### **Thierry Deruteyrre**
+### **Thierry Deruyttere**
 
 In this presentation, Thierry will give an complete overview of the progress of his PhD regarding talking to self-driving cars. 
 He will discuss several of the encountered tasks and issues in his work. This includes dataset creation, object location, uncertainty resolution and the upcoming tasks regarding path planning.  
