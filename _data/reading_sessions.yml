@@ -39,12 +39,32 @@
   description: "DeVLBert: Learning Deconfounded Visio-Linguistic Representations"
   url: "https://arxiv.org/abs/2008.06884"
 - date: "2021-06-17"
-  time: "15:00-16:00"
+  time: "12:00-13:00"
   leader: Katrien Laenen
   description: "Why do These Match? Explaining the Behavior of Image Similarity Models"
   url: "https://arxiv.org/pdf/1905.10797.pdf"
-- date: "2021-06-27"
-  time: "15:00-16:00"
+- date: "2021-06-28"
+  time: "12:00-13:00"
   leader: Victor Milewski
-  description: ""
+  description: "Dynabench: Rethinking Benchmarking in NLP"
+  url: "https://www.aclweb.org/anthology/2021.naacl-main.324.pdf"
+- date: "2021-07-08"
+  time: "15:00-16:00"
+  leader: Sumam Francis
+  description: "TBD"
+  url: ""
+- date: "2021-07-22"
+  time: "15:00-16:00"
+  leader: Nathan Cornille 
+  description: "TBD"
+  url: ""
+- date: "2021-08-12"
+  time: "15:00-16:00"
+  leader: Mingxiao Li
+  description: "TBD"
+  url: ""
+- date: "2021-08-26"
+  time: "15:00-16:00"
+  leader: Damien Sileo
+  description: "TBD"
   url: ""
