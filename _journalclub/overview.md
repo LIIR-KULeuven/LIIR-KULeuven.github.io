@@ -54,7 +54,7 @@ Here are the closest upcoming events. For a full overview, have a look at the
 {% assign sorted = site.seminars | sort: 'date' %}
 {% capture nowunix %}{{ 'now' | date: '%s' }}{% endcapture %}
 {% assign count = 0 %}
-{% for post in printitems%}
+{% for post in sorted%}
     {% capture posttime %}{{ post.date | date: '%s' }}{% endcapture %}
     {% if posttime >= nowunix %}
         {% include archive-single.html type="grid" %}
