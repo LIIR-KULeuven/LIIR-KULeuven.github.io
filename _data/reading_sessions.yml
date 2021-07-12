@@ -48,11 +48,6 @@
   leader: Victor Milewski
   description: "Dynabench: Rethinking Benchmarking in NLP"
   url: "https://www.aclweb.org/anthology/2021.naacl-main.324.pdf"
-- date: "2021-07-08"
-  time: "15:00-16:00"
-  leader: Sumam Francis
-  description: "TBD"
-  url: ""
 - date: "2021-07-22"
   time: "15:00-16:00"
   leader: Nathan Cornille 
@@ -65,6 +60,16 @@
   url: ""
 - date: "2021-08-26"
   time: "15:00-16:00"
+  leader: Sumam Francis
+  description: "TBD"
+  url: ""
+- date: "2021-09-09"
+  time: "15:00-16:00"
   leader: Damien Sileo
+  description: "TBD"
+  url: ""
+- date: "2021-09-23"
+  time: "15:00-16:00"
+  leader: Tingyu Qu
   description: "TBD"
   url: ""
