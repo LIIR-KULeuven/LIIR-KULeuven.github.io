@@ -2,7 +2,7 @@
 title: "August 5, 2021: By Liesbeth Allein"
 excerpt: "Time-Aware Evidence Ranking for Fact-Checking by Liesbeth Allein"
 header:
-%  teaser: "https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-58323-1_2/MediaObjects/498432_1_En_2_Fig1_HTML.png"
+  teaser: "https://www.sailingscuttlebutt.com/wp-content/uploads/2020/12/2020-12-16_10-18-31.jpg"
 #sidebar:
 #  - nav: "jc-nav"
 date: 2021-08-05
