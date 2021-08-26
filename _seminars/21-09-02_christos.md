@@ -1,16 +1,14 @@
 ---
 title: "September 2, 2021: By Christos Theodoropoulos"
-excerpt: "Imposing Relation Structure in Language-Model Embeddings
-Using Contrastive Learning"
+excerpt: "Imposing Relation Structure in Language-Model Embeddings Using Contrastive Learning"
 header:
-  teaser: 
+  teaser: assets/images/christos_seminar.png
 #sidebar:
 #  - nav: "jc-nav"
 date: 2021-09-02
 ---
 
-## Imposing Relation Structure in Language-Model Embeddings
-Using Contrastive Learning
+## Imposing Relation Structure in Language-Model Embeddings Using Contrastive Learning
 
 ### Christos Theodoropoulos
 
