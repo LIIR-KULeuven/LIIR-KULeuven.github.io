@@ -4,7 +4,7 @@ excerpt: "Imposing Relation Structure in Language-Model Embeddings Using Contras
 
 "
 header:
-  teaser: assets/images/christos_seminar.png
+  teaser: assets/images/christos_ruben_seminar.png
 #sidebar:
 #  - nav: "jc-nav"
 date: 2021-10-07
