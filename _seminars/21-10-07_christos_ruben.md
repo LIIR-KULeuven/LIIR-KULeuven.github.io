@@ -1,8 +1,6 @@
 ---
 title: "October 7, 2021: By Christos Theodoropoulos and Ruben Cartuyvels"
 excerpt: "Imposing Relation Structure in Language-Model Embeddings Using Contrastive Learning; Discrete and Continuous Representations and Processing in Deep Learning"
-
-"
 header:
   teaser: assets/images/christos_ruben_seminar.png
 #sidebar:
