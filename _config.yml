@@ -25,6 +25,7 @@ logo: "/assets/images/LIIR_journal_club.png"
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
+future: true
 
 atom_feed:
   hide: true
