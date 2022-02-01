@@ -2,7 +2,7 @@
 title: "March 3, 2022: By Mingxiao Li and Damien Sileo"
 excerpt: "Dynamic Key-value Memory Enhanced Multi-step Graph Reasoning for Knowledge-based Visual Question Answering; Zero-Shot Recommendations as Language Modeling"
 header:
-teaser: assets/images/mingxiao_damien_seminar.png
+teaser: "assets/images/mingxiao_damien_seminar.png"
 #sidebar:
 #  - nav: "jc-nav"
 date: 2022-03-03
