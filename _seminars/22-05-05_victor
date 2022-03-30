@@ -1,0 +1,17 @@
+---
+title: "May 5, 2022: By Victor Milewski"
+excerpt: "Finding Structural Knowledge in Multimodal-BERT"
+header:
+  teaser: assets/images/example_scenetree.png
+#sidebar:
+#  - nav: "jc-nav"
+date: 2022-03-03
+---
+
+## Finding Structural Knowledge in Multimodal-BERT
+
+### Victor Milewski
+
+#### Abstract:
+Abstract:
+Knowledge-based viIn this work, we investigate the knowledge learned in the embeddings of multimodal-BERT models. More specifically, we probe their capabilities of storing the grammatical structure of linguistic data and the structure learned over objects in visual data. To reach that goal, we first make the inherent structure of language and visuals explicit by a dependency parse of the sentences that describe the image and by the dependencies between the object regions in the image, respectively. We call this explicit visual structure the \textit{scene tree}, that is based on the dependency tree of the language description. Extensive probing experiments show that the multimodal-BERT models do not encode these scene trees.Code available at [this https URL](https://github.com/VSJMilewski/multimodal-probes).
