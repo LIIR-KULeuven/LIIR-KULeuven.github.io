@@ -66,5 +66,10 @@
 - date: "2022-03-17"
   time: "15:00-16:00"
   leader: Tingyu Qu
-  description: [To be voted]
-  url: "https://liir-kuleuven.github.io/journal-club/reading/"
+  description: Align before Fuse: Vision and Language Representation Learning with Momentum Distillation
+  url: "https://arxiv.org/abs/2107.07651"
+- date: "2022-04-21"
+  time: "15:00-16:00"
+  leader: Daniel Hershovich
+  description: Challenges and Strategies in Cross-Cultural NLP
+  url: "https://arxiv.org/pdf/2203.10020.pdf"
